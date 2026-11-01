@@ -10,7 +10,7 @@ foundation in C++, Data Structures and Algorithms, and problem solving.
 ## Sections
 - Home: headline, introduction and links to projects and contact
 - About: background as a CSE undergraduate and focus areas
-- Technical Skills: C++, DSA, HTML5, CSS3, JavaScript, React.js, Bootstrap,
+- Technical Skills: C++, DSA, HTML5, CSS3, JavaScript, React.js,
   Node.js, Express.js, MongoDB, Git, GitHub, VS Code
 - Projects: MERN stack e-commerce application, a product listing application
   using the DummyJSON API, and a shopping cart application using Context API

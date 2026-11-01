@@ -14,3 +14,6 @@ build/
 
 # Other
 .DS_Store
+# Private credentials
+memory/test_credentials.md
+.venv/

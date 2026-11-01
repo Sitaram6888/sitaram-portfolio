@@ -1,0 +1,24 @@
+# Sitaram Kumar — Software Developer Portfolio
+
+Personal portfolio of Sitaram Kumar, an aspiring software developer and B.Tech
+Computer Science and Engineering student graduating in 2027.
+
+## About
+Sitaram builds modern web applications with the MERN stack and has a strong
+foundation in C++, Data Structures and Algorithms, and problem solving.
+
+## Sections
+- Home: headline, introduction and links to projects and contact
+- About: background as a CSE undergraduate and focus areas
+- Technical Skills: C++, DSA, HTML5, CSS3, JavaScript, React.js, Bootstrap,
+  Node.js, Express.js, MongoDB, Git, GitHub, VS Code
+- Projects: MERN stack e-commerce application, a product listing application
+  using the DummyJSON API, and a shopping cart application using Context API
+- Education: B.Tech in Computer Science and Engineering, graduating 2027
+- Career Objective: building a career in software development
+- Contact: email, LinkedIn, GitHub and a contact form
+
+## Contact
+- Email: kumarsitaram688@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sitaram-kumar-29b312445
+- GitHub: https://github.com/Sitaram6888

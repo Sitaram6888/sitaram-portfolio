@@ -1,0 +1,16 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# React
+node_modules/
+build/
+
+# Other
+.DS_Store
